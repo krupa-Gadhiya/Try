@@ -14,6 +14,7 @@ public class LoggingTest {
 		l.debug("hello"); // system.out.ptintln("hello");
 		l.debug("WE r writing in a loger file");
 		l.debug("First Line");
+		l.debug("Last line");
 
 		
 	}
